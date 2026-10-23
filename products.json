@@ -1,0 +1,23 @@
+[
+    {
+        "name": "black round neck",
+        "price": 18000,
+        "cat": "round neck",
+        "desc": "beautiful black round neck just for you",
+        "image": "images/black-round-neck.webp"
+    },
+    {
+        "name": "white round neck",
+        "price": 18000,
+        "cat": "round neck",
+        "desc": "white round neck just for you",
+        "image": "images/white-round-neck.webp"
+    },
+    {
+        "name": "Sow T-shirt",
+        "price": 35000,
+        "cat": "services",
+        "desc": "Professional T-shirt sown by real  professionals just for you",
+        "image": "images/sow-t-shirt.webp"
+    }
+]
